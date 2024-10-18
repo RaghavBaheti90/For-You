@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439852574713",
+    "project_id": "smart-rp-b666e",
+    "storage_bucket": "smart-rp-b666e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439852574713:android:feb5d8a2c59f553a9f7f28",
+        "android_client_info": {
+          "package_name": "com.example.smart_r_p"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvh6GNA-AA-0_knptnf4RLf6n0bWvO6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
